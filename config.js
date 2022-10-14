@@ -1,8 +1,8 @@
 module.exports = {
     app: {
-        px: 'BOT PREFIX',
-        token: 'TOKEN GOES HERE',
-        playing: 'PLAYING STATUS OF THE BOT'
+        px: 't',
+        token: process.env.token,
+        playing: 'chilling...'
     },
 
     opt: {
